@@ -29,7 +29,7 @@ The project is written entirely in modern C++ and uses standard libraries for in
 
 ### 🧱 Compile (Linux / Termux)
 ```bash
-g++ main.cpp -o youtube-downloader
+g++ App.cpp -o youtube-downloader
 ./youtube-downloader
 ```
 OR
